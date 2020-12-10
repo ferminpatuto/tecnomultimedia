@@ -1,0 +1,2 @@
+tp final de tecno, pude resolver la aparicion del pjhora y sus movimientos, no pude lograr que la colicion vuelva a funcionar 
+y que el audio funcione donde debe
